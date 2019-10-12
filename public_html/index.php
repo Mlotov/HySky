@@ -9,7 +9,6 @@
 
     <div class="container d-flex justify-content-center mt-5">
         <h1>Your #1 and Only Skyblock Website!</h1>
-        <!-- Test comment -->
     </div>
 
 <!-- FOOTER -->
