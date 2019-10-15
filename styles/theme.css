@@ -1,0 +1,41 @@
+body{
+
+    font-family: Nunito;
+}
+
+.navbar{
+
+    background-color: #4682b4;
+
+}
+
+.landing-link{
+    background-image: url('http://static.hdw.eweb4.com/media/wallpapers_dl/1/148/1473657-pokemon-red.jpg');
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center; 
+    border-radius: 20px;
+}
+
+.bg-photo{
+    background-image: url(https://images8.alphacoders.com/413/thumb-1920-413114.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.textshadow{
+    text-shadow: 2px 2px 2px black;
+}
+
+.textshadow:hover {
+    text-shadow: 2px 1px 3px black;
+    color: white;
+    transition: 200ms;
+}
+.textshadow {
+    text-shadow: 2px 1px 3px black;
+    color: white;
+    transition: 200ms;
+}

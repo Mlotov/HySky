@@ -1,0 +1,73 @@
+.auc-item-COMMON{
+    font-weight: 700;
+    color: #4F4F4F;
+}
+
+.auc-item-UNCOMMON{
+    font-weight: 700;
+    color: #008A00;
+}
+
+.auc-item-RARE{
+    font-weight: 700;
+    color: #003AAD;
+}
+
+.auc-item-EPIC{
+    font-weight: 700;
+    color: #6E195D;
+}
+
+.auc-item-LEGENDARY{
+    font-weight: 700;
+    color: #C4A600;
+}
+
+
+
+.auc-tier-COMMON{
+    font-weight: 700;
+    color: #4F4F4F;
+}
+
+.auc-tier-UNCOMMON{
+    font-weight: 700;
+    color: #008A00;
+}
+
+.auc-tier-RARE{
+    font-weight: 700;
+    color: #003AAD;
+}
+
+.auc-tier-EPIC{
+    font-weight: 700;
+    color: #6E195D;
+}
+
+.auc-tier-LEGENDARY{
+    font-weight: 700;
+    color: #C4A600;
+}
+
+.auc-sbid{
+    font-weight: 700;
+    color: #216C2A;
+}
+
+.auc-hbid{
+    font-weight: 700;
+    color: #216C2A;
+}
+
+.auc-startd{
+    font-weight: 700;
+}
+
+.auc-endd{
+    font-weight: 700;
+}
+
+.auc-endin{
+    font-weight: 700;
+}
